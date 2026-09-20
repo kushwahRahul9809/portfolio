@@ -1,4 +1,4 @@
-# portfolio
+
 # Rahul Kushwaha | Personal Portfolio Website
 
 A modern, responsive and professional personal portfolio website built to showcase my skills, projects, education, internship experience and contact information.
