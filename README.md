@@ -10,7 +10,7 @@ The portfolio focuses on my journey as a **Python Developer and Data Science Ent
 ## 🌐 Portfolio
 
 **Live Portfolio:**  
-Add your deployed portfolio link here
+ https://kushwahrahul9809.github.io/portfolio/
 
 **GitHub:**  
 https://github.com/kushwahRahul9809
